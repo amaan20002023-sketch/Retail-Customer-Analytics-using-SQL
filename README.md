@@ -4,7 +4,7 @@
 
 ![SQL]
 
-
+https://github.com/amaan20002023-sketch/Retail-Customer-Analytics-using-SQL
 Complete **pure SQL** solution for the AnalytixLabs **Retail Customer Analysis** case study.  
 All 20 business questions solved using clean, efficient, production-ready SQL queries (no Python/Pandas).
 
